@@ -1,4 +1,4 @@
-module github.com/gin-contrib/cors
+module addysnip.dev/cors
 
 go 1.13
 
